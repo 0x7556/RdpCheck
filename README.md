@@ -10,4 +10,4 @@ RdpCheck Server User Pass Domain
 RdpCheck Server:Port User Pass Domain
 ```
 
-![image](https://github.com/0x7556/RdpCheck/blob/master/rdpcheck.PNG)
+![image](https://github.com/0x7556/RdpCheck/raw/master/rdpcheck.PNG)
