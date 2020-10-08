@@ -12,5 +12,5 @@ RdpCheck Server:Port User Pass Domain
 ### RdpCheck
 ![image](https://github.com/0x7556/RdpCheck/raw/master/rdpcheck.PNG)
 
-### Ladon Brute Ini
+### Ladon Brute
 ![image](https://github.com/0x7556/RdpCheck/raw/master/RdpLadon.png)
