@@ -13,4 +13,6 @@ RdpCheck Server:Port User Pass Domain
 ![image](https://github.com/0x7556/RdpCheck/raw/master/rdpcheck.PNG)
 
 ### Ladon Brute
+Target: Win2008 R2<br>
+Attack: Win7
 ![image](https://github.com/0x7556/RdpCheck/raw/master/RdpLadon.png)
